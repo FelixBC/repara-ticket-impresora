@@ -8,8 +8,6 @@ Programa para Windows que revisa y repara la impresora de tickets para que impri
 
 Baja el programa directo (un solo archivo, sin descomprimir). El link siempre da la última versión.
 
-¿Prefiere el .zip con las instrucciones (LEEME)? [Descargar .zip](https://github.com/FelixBC/repara-ticket-impresora/releases/latest/download/Repara-ticket-e-impresora.zip)
-
 ## Cómo se usa
 
 1. Abra el archivo que bajó (**Repara-ticket-e-impresora.exe**) con doble clic, sin «Ejecutar como administrador». Si Chrome dice que el archivo «no se descarga con frecuencia», toque **«Conservar»**.
