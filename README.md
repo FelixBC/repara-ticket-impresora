@@ -4,13 +4,15 @@ Programa para Windows que revisa y repara la impresora de tickets para que impri
 
 ## Descargar
 
-**[Descargar Repara ticket & impresora (.zip)](https://github.com/FelixBC/repara-ticket-impresora/releases/latest/download/Repara-ticket-e-impresora.zip)**
+### 👉 **[is.gd/reparaticket](https://is.gd/reparaticket)**
 
-El link siempre baja la última versión.
+Baja el programa directo (un solo archivo, sin descomprimir). El link siempre da la última versión.
+
+¿Prefiere el .zip con las instrucciones (LEEME)? [Descargar .zip](https://github.com/FelixBC/repara-ticket-impresora/releases/latest/download/Repara-ticket-e-impresora.zip)
 
 ## Cómo se usa
 
-1. Descomprima el .zip y abra **«Repara ticket & impresora.exe»** con doble clic (sin «Ejecutar como administrador»).
+1. Abra el archivo que bajó (**Repara-ticket-e-impresora.exe**) con doble clic, sin «Ejecutar como administrador». Si Chrome dice que el archivo «no se descarga con frecuencia», toque **«Conservar»**.
 2. Si Windows muestra un aviso azul («Windows protegió su PC»), toque **«Más información»** y después **«Ejecutar de todas formas»**. El aviso sale porque el programa es nuevo y no tiene firma digital.
 3. Toque **«Reparar la impresora»** y siga lo que diga la ventana.
 4. Cuando salga el ticket de prueba, mírelo y conteste si salió bien. Si salió cortado, en blanco, torcido o con letras raras, elija lo que pasó: el programa prueba otra vez o dice qué hacer.
