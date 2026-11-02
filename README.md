@@ -23,7 +23,7 @@ Baja el programa directo (un solo archivo, sin descomprimir). El link siempre da
 - Que sea la impresora predeterminada.
 - La configuración de impresión de Chrome (impresora, papel de 80 mm, márgenes, escala).
 - El ícono de Chrome con impresión rápida (se puede apagar con la casilla de la ventana).
-- Un ticket de prueba igual al de la banca.
+- Un ticket de prueba igual al de su negocio.
 
 ## Para soporte («Ver más», abajo en la ventana)
 
